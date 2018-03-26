@@ -7,6 +7,6 @@ NiuParser(http://www.niuparser.com), NiuParser支持所有的中文自然语言�
 
 Neu初步预计有四个模块,分别是分词,词性标注,实体识别,句法分析.
 
-安装方便,可直接pip安装,不依赖于繁多的包,敬请期待.!
+安装方便,可直接pip安装,不依赖于繁多的包,敬请期待!
 
 有任何问题可联系wujinhang0729@163.com, huxiao1318@163.com
